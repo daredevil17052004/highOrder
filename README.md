@@ -31,7 +31,6 @@ Expected output: [burger, fingerChips, donuts]
 ```
 
 ### Progression #2: Array Splice
-
 The splice() method adds/removes items to/from an array, and returns the removed item(s).
 
 Take an example array. Create a function `spliced()` and use `splice()` within this function to get the below expected output. Elements are added to the original array.
@@ -49,7 +48,7 @@ Filter is an array method. It accepts a test function as an argument and returns
 Now, create a function `checkNumber()` which takes `numberArray` and `operation` as arguments and _returns an array after performing the respective operation_.
 
 ```
-Take numberArray as
+Take numberArray as q
 
 const numberArray = [12,324,213,4,2,3,45,4234];
 ```
